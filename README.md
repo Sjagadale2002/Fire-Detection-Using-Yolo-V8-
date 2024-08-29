@@ -27,5 +27,5 @@ What things you need to install the software and how to install them:
 - time
 - Threading
 
-- If any Problem then we connect on email:sjsuyog20002@gmail.com
+- If any Problem then we can connect through email:sjsuyog20002@gmail.com
 - Use this Link for my Page:https://github.com/Sjagadale2002/Fire-Detection-Using-Yolo-V8-.git
