@@ -1,4 +1,4 @@
-# Fire-Detection-Using-Yolo-V8-
+# Fire Detection by suyog
 Author-Suyog Jagadale
 Fire detection is a crucial safety feature for preventing damage and loss of life. Traditional fire detection systems often rely on smoke and temperature sensors, which may not be effective in open or large spaces. This project leverages the power of the YOLOv8 object detection model to detect fire visually in real time from video feeds.
 
